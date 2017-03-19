@@ -1,0 +1,15 @@
+{
+  "name": "mqtt-ws",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server_with_mongo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mohit Rajain",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.6.5",
+    "mqtt": "^2.0.1"
+  }
+}
